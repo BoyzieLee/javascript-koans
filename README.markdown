@@ -1,6 +1,10 @@
+##Learning Objectives
+-Have a basic understanding of unit tests work
+-Show an understanding of, arrays, objects, functions, inheritance & higher order functions (functional style programming).
+
 # Javascript Koans - koans to learn Javascript (the good bits) #
 
-Based on Edgecase's fantastic 
+Based on Edgecase's fantastic
 [Ruby koans](http://github.com/edgecase/ruby_koans), the goal of the
 Javascript koans is to teach you Javascript programming through
 testing.
@@ -18,7 +22,7 @@ you to solve more complicated problems and use more advanced techniques.
 ### Running the Koans from a Browser
 
 Simply navigate to the Javascript Koans folder using a file browser, and
-double click on KoansRunnner.html. 
+double click on KoansRunnner.html.
 
 Any browser will do, but for the best results Firefox or Chrome is
 recommended. More stack trace information shows up for javascript on these
@@ -46,4 +50,3 @@ customized report viewer.
 
 This software is (c) 2010 David Laing & Greg Malcolm, and licensed under the MIT license (see
 LICENCE for details).  Enjoy!
-
